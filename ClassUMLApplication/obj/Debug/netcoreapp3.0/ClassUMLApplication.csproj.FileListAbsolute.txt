@@ -1,0 +1,11 @@
+C:\Users\Prophesy\Documents\C#2019\ClassUMLApplication\ClassUMLApplication\bin\Debug\netcoreapp3.0\ClassUMLApplication.exe
+C:\Users\Prophesy\Documents\C#2019\ClassUMLApplication\ClassUMLApplication\bin\Debug\netcoreapp3.0\ClassUMLApplication.deps.json
+C:\Users\Prophesy\Documents\C#2019\ClassUMLApplication\ClassUMLApplication\bin\Debug\netcoreapp3.0\ClassUMLApplication.runtimeconfig.json
+C:\Users\Prophesy\Documents\C#2019\ClassUMLApplication\ClassUMLApplication\bin\Debug\netcoreapp3.0\ClassUMLApplication.runtimeconfig.dev.json
+C:\Users\Prophesy\Documents\C#2019\ClassUMLApplication\ClassUMLApplication\bin\Debug\netcoreapp3.0\ClassUMLApplication.dll
+C:\Users\Prophesy\Documents\C#2019\ClassUMLApplication\ClassUMLApplication\bin\Debug\netcoreapp3.0\ClassUMLApplication.pdb
+C:\Users\Prophesy\Documents\C#2019\ClassUMLApplication\ClassUMLApplication\obj\Debug\netcoreapp3.0\ClassUMLApplication.csprojAssemblyReference.cache
+C:\Users\Prophesy\Documents\C#2019\ClassUMLApplication\ClassUMLApplication\obj\Debug\netcoreapp3.0\ClassUMLApplication.AssemblyInfoInputs.cache
+C:\Users\Prophesy\Documents\C#2019\ClassUMLApplication\ClassUMLApplication\obj\Debug\netcoreapp3.0\ClassUMLApplication.AssemblyInfo.cs
+C:\Users\Prophesy\Documents\C#2019\ClassUMLApplication\ClassUMLApplication\obj\Debug\netcoreapp3.0\ClassUMLApplication.dll
+C:\Users\Prophesy\Documents\C#2019\ClassUMLApplication\ClassUMLApplication\obj\Debug\netcoreapp3.0\ClassUMLApplication.pdb
